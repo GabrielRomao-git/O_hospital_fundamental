@@ -14,3 +14,23 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 
 ![Hospital drawio(1)](https://user-images.githubusercontent.com/110436354/197145834-90ef03ae-bcb9-4f42-9e59-ab58df68208e.png)
+
+# Parte 2
+
+No hospital, as internações têm sido registradas por meio de formulários eletrônicos que gravam os dados em arquivos. 
+
+Para cada internação, são anotadas a data de entrada, a data prevista de alta e a data efetiva de alta, além da descrição textual dos procedimentos a serem realizados. 
+
+As internações precisam ser vinculadas a quartos, com a numeração e o tipo. 
+
+Cada tipo de quarto tem sua descrição e o seu valor diário (a princípio, o hospital trabalha com apartamentos, quartos duplos e enfermaria).
+
+Também é necessário controlar quais profissionais de enfermaria estarão responsáveis por acompanhar o paciente durante sua internação. Para cada enfermeiro(a), é necessário nome, CPF e registro no conselho de enfermagem (CRE).
+A internação, obviamente, é vinculada a um paciente – que pode se internar mais de uma vez no hospital – e a um único médico responsável.
+
+## Resposta :heavy_check_mark:
+
+![image](https://user-images.githubusercontent.com/110436354/206246354-95bfa58b-ae63-4ead-aa23-63911f7e5181.png)
+
+
+
