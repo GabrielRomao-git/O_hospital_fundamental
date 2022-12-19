@@ -32,5 +32,25 @@ A internação, obviamente, é vinculada a um paciente – que pode se internar 
 
 ![image](https://user-images.githubusercontent.com/110436354/206246354-95bfa58b-ae63-4ead-aa23-63911f7e5181.png)
 
+# Parte 3
+
+Abastecer o banco com informações fictícias.
+
+# Cargo
+
+![image](https://user-images.githubusercontent.com/110436354/208550486-9c2c3e6f-022a-4bec-920c-2fd09113a127.png)
+
+# Consultas
+
+![image](https://user-images.githubusercontent.com/110436354/208550672-f1906fb6-0dc8-45ab-91a1-64d9d0af2613.png)
+
+# Convenio
+
+![image](https://user-images.githubusercontent.com/110436354/208550805-856e6226-a27d-47b4-ab1f-70eae5482bf5.png)
+
+
+
+
+
 
 
