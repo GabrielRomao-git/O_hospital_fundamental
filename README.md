@@ -75,6 +75,15 @@ Abastecer o banco com informações fictícias.
 # Tipo de Quarto
 ![image](https://user-images.githubusercontent.com/110436354/208744760-2269a877-7bd8-4037-98dd-3e22b6874ee4.png)
 
+# Parte 4
+
+Pensando no banco que já foi criado para o Projeto do Hospital, realize algumas alterações nas tabelas e nos dados usando comandos de atualização e exclusão:
+Crie um script que adicione uma coluna “em_atividade” para os médicos, indicando se ele ainda está atuando no hospital ou não. 
+Crie um script para atualizar ao menos dois médicos como inativos e os demais em atividade.
+
+## Resposta :heavy_check_mark:
+![image](https://user-images.githubusercontent.com/110436354/208757189-e967b157-798b-4c99-9f98-65cb71481687.png)
+
 
 
 
