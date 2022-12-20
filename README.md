@@ -54,20 +54,31 @@ Abastecer o banco com informações fictícias.
 # Enfermeiro
 ![image](https://user-images.githubusercontent.com/110436354/208734620-7261b11b-8ae0-45b0-9327-3d19477738fc.png)
 
-#Especialidade
+# Especialidade
 ![image](https://user-images.githubusercontent.com/110436354/208734820-c8953b80-9827-4b99-8941-8b62f9c759f7.png)
 
-#Internação
+# Internação
 ![image](https://user-images.githubusercontent.com/110436354/208734977-25df73e0-abd0-4ddf-9018-925a42adf94f.png)
 
-#Médico
+# Médico
 ![image](https://user-images.githubusercontent.com/110436354/208739446-16834f1b-0bd9-4feb-88b5-fcae457fa7b8.png)
 
-#Paciente
+# Paciente
 ![image](https://user-images.githubusercontent.com/110436354/208739605-cfbcd851-3e69-4447-acb2-f594b36b3d28.png)
 
-#Quarto
+# Quarto
 ![image](https://user-images.githubusercontent.com/110436354/208739945-d86744a5-5764-432e-ace7-75d3efce97aa.png)
+
+# Receita
+![image](https://user-images.githubusercontent.com/110436354/208741335-44499e77-831c-4a57-85b3-74244a077ffe.png)
+
+# Tipo de Quarto
+![image](https://user-images.githubusercontent.com/110436354/208744760-2269a877-7bd8-4037-98dd-3e22b6874ee4.png)
+
+
+
+
+
 
 
 
