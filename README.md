@@ -48,6 +48,34 @@ Abastecer o banco com informações fictícias.
 
 ![image](https://user-images.githubusercontent.com/110436354/208550805-856e6226-a27d-47b4-ab1f-70eae5482bf5.png)
 
+# Endereço
+![image](https://user-images.githubusercontent.com/110436354/208734456-3f4bb1ba-f399-4279-9c61-77f0572a6bed.png)
+
+# Enfermeiro
+![image](https://user-images.githubusercontent.com/110436354/208734620-7261b11b-8ae0-45b0-9327-3d19477738fc.png)
+
+#Especialidade
+![image](https://user-images.githubusercontent.com/110436354/208734820-c8953b80-9827-4b99-8941-8b62f9c759f7.png)
+
+#Internação
+![image](https://user-images.githubusercontent.com/110436354/208734977-25df73e0-abd0-4ddf-9018-925a42adf94f.png)
+
+#Médico
+![image](https://user-images.githubusercontent.com/110436354/208739446-16834f1b-0bd9-4feb-88b5-fcae457fa7b8.png)
+
+#Paciente
+![image](https://user-images.githubusercontent.com/110436354/208739605-cfbcd851-3e69-4447-acb2-f594b36b3d28.png)
+
+#Quarto
+![image](https://user-images.githubusercontent.com/110436354/208739945-d86744a5-5764-432e-ace7-75d3efce97aa.png)
+
+
+
+
+
+
+
+
 
 
 
