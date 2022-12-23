@@ -84,6 +84,14 @@ Crie um script para atualizar ao menos dois médicos como inativos e os demais
 ## Resposta :heavy_check_mark:
 ![image](https://user-images.githubusercontent.com/110436354/208757189-e967b157-798b-4c99-9f98-65cb71481687.png)
 
+# Parte 5 
+
+Todos os dados e o valor médio das consultas do ano de 2020 e das que foram feitas sob convênio.
+
+![image](https://user-images.githubusercontent.com/110436354/209412733-7c5e211b-3b18-4aed-852b-244e8afa7b8d.png)
+
+
+
 
 
 
