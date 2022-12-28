@@ -98,6 +98,11 @@ Pergunta 3: Receituário completo da primeira consulta registrada com receituár
 
 ![image](https://user-images.githubusercontent.com/110436354/209864560-5e4bd08a-4f08-4fb4-879e-3ccfd45af2fa.png)
 
+Pergunta 4: Todos os dados da consulta de maior valor e também da de menor valor (ambas as consultas não foram realizadas sob convênio).
+
+![image](https://user-images.githubusercontent.com/110436354/209866277-fd9c62f4-a18b-43d1-8abe-3446a6b459e6.png)
+
+
 
 
 
