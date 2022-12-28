@@ -94,6 +94,11 @@ Pergunta 2: Todos os dados das internações que tiveram data de alta maior que 
 
 ![image](https://user-images.githubusercontent.com/110436354/209856844-2d1be903-c353-4f81-93e4-fb4859e05073.png)
 
+Pergunta 3: Receituário completo da primeira consulta registrada com receituário associado.
+
+![image](https://user-images.githubusercontent.com/110436354/209864560-5e4bd08a-4f08-4fb4-879e-3ccfd45af2fa.png)
+
+
 
 
 
