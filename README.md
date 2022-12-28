@@ -86,9 +86,14 @@ Crie um script para atualizar ao menos dois médicos como inativos e os demais
 
 # Parte 5 
 
-Todos os dados e o valor médio das consultas do ano de 2020 e das que foram feitas sob convênio.
+Pergunta 1: Todos os dados e o valor médio das consultas do ano de 2020 e das que foram feitas sob convênio.
 
 ![image](https://user-images.githubusercontent.com/110436354/209412733-7c5e211b-3b18-4aed-852b-244e8afa7b8d.png)
+
+Pergunta 2: Todos os dados das internações que tiveram data de alta maior que a data prevista para a alta.
+
+![image](https://user-images.githubusercontent.com/110436354/209856844-2d1be903-c353-4f81-93e4-fb4859e05073.png)
+
 
 
 
