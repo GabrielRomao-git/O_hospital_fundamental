@@ -110,6 +110,11 @@ Pergunta 6: Data, procedimento e número de quarto de internações em quartos d
 
 ![image](https://user-images.githubusercontent.com/110436354/210012798-d141a17a-890d-483f-818a-74c886aed1ff.png)
 
+Pergunta 7: Nome do paciente, data da consulta e especialidade de todas as consultas em que os pacientes eram menores de 18 anos na data da consulta e cuja especialidade não seja “pediatria”, ordenando por data de realização da consulta.
+
+![image](https://user-images.githubusercontent.com/110436354/210017076-d9e4894c-a912-467d-a9c4-3fc86e20883f.png)
+
+
 
 
 
