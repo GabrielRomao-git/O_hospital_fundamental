@@ -118,15 +118,6 @@ Pergunta 8: Nome do paciente, nome do médico, data da internação e procedimen
 
 ![image](https://user-images.githubusercontent.com/110436354/210018344-94d863d7-31db-44c6-9da3-8e5f4e7c0f77.png)
 
-```
-select paciente.nome,concat(medico.nome, ' |', especialidade.nome), internacao.data_entrada, internacao.procedimento,
-tipo_quarto.descricao from internacao inner join paciente on internacao.paciente_fk = paciente.idpaciente
-inner join medico on internacao.medico_fk = medico.idmedico inner join especialidade on
-medico.especi_fk = especialidade.idespecialidade inner join quarto on internacao.quarto_fk = quarto.idquarto
-inner join tipo_quarto on quarto.tipo = tipo_quarto.idtipo 
-where especialidade.nome= ' gastroenterologia ' and tipo_quarto.descricao= 'enfermaria'
-```
-
 
 
 
