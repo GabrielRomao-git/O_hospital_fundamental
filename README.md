@@ -102,6 +102,11 @@ Pergunta 4: Todos os dados da consulta de maior valor e também da de menor valo
 
 ![image](https://user-images.githubusercontent.com/110436354/209866277-fd9c62f4-a18b-43d1-8abe-3446a6b459e6.png)
 
+Pergunta 5: Todos os dados das internações em seus respectivos quartos, calculando o total da internação a partir do valor de diária do quarto e o número de dias entre a entrada e a alta.
+
+![image](https://user-images.githubusercontent.com/110436354/210011402-e34dee20-1b01-408a-b8d1-1fd7395b4422.png)
+
+
 
 
 
