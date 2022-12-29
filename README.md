@@ -106,6 +106,11 @@ Pergunta 5: Todos os dados das internações em seus respectivos quartos, calcul
 
 ![image](https://user-images.githubusercontent.com/110436354/210011402-e34dee20-1b01-408a-b8d1-1fd7395b4422.png)
 
+Pergunta 6: Data, procedimento e número de quarto de internações em quartos do tipo “apartamento”.
+
+![image](https://user-images.githubusercontent.com/110436354/210012798-d141a17a-890d-483f-818a-74c886aed1ff.png)
+
+
 
 
 
