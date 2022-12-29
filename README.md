@@ -114,6 +114,11 @@ Pergunta 7: Nome do paciente, data da consulta e especialidade de todas as consu
 
 ![image](https://user-images.githubusercontent.com/110436354/210017076-d9e4894c-a912-467d-a9c4-3fc86e20883f.png)
 
+Pergunta 8: Nome do paciente, nome do médico, data da internação e procedimentos das internações realizadas por médicos da especialidade “gastroenterologia”, que tenham acontecido em “enfermaria”.
+
+![image](https://user-images.githubusercontent.com/110436354/210018344-94d863d7-31db-44c6-9da3-8e5f4e7c0f77.png)
+
+
 
 
 
