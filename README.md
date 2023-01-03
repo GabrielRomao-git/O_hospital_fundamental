@@ -122,6 +122,15 @@ Pergunta 9: Os nomes dos médicos, seus CRMs e a quantidade de consultas que cad
 
 ![image](https://user-images.githubusercontent.com/110436354/210442043-fea24f48-9587-4a59-a448-edaaf1706092.png)
 
+Pergunta 10: Todos os médicos que tenham "Gabriel" no nome. 
+
+![image](https://user-images.githubusercontent.com/110436354/210442302-5c5e23c0-de14-4d5a-a71f-0e890b1b4ef8.png)
+
+Pergunta 11: Os nomes, CREs e número de internações de enfermeiros que participaram de mais de uma internação.
+
+![image](https://user-images.githubusercontent.com/110436354/210446991-b98710e1-3704-4019-a34a-bb5f42320489.png)
+
+
 
 
 
