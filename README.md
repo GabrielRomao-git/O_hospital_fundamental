@@ -118,6 +118,11 @@ Pergunta 8: Nome do paciente, nome do médico, data da internação e procedimen
 
 ![image](https://user-images.githubusercontent.com/110436354/210018344-94d863d7-31db-44c6-9da3-8e5f4e7c0f77.png)
 
+Pergunta 9: Os nomes dos médicos, seus CRMs e a quantidade de consultas que cada um realizou.
+
+![image](https://user-images.githubusercontent.com/110436354/210442043-fea24f48-9587-4a59-a448-edaaf1706092.png)
+
+
 
 
 
